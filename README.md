@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=35&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=HELLO+I+AM+MUZAMIL HUSSAIN;hussain-labs+𝙳𝙴𝚃𝙴𝙲𝚃𝙴𝙳...;𝙸𝙽𝙸𝚃𝙸𝙰𝙻𝙸𝚉𝙸𝙽𝙶+𝚂𝚃𝙰𝙲𝙺..." />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=HELLO+I+AM+MUZAMIL+HUSSAIN;HUSSAIN-LABS+DETECTED...;INITIALIZING+STACK..." />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussain-labs&theme=tokyonight&hide_border=true" alt="hussain-labs streak" />
