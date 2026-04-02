@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=30&pause=1000&color=4AF626&center=true&vCenter=true&width=600&lines=HELLO+VISITOR+👋;I+AM+MUZAMIL+HUSSAIN;hussain-labs+DETECTED...;[+SYSTEM+STATUS:+🟢+OPTIMIZED+]" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=30&pause=1000&color=4AF626&center=true&vCenter=true&width=600&lines=HELLO+VISITOR+%F0%9F%91%8B;I+AM+MUZAMIL+HUSSAIN;hussain-labs+DETECTED...;[+SYSTEM+STATUS:+%F0%9F%9F%A2+OPTIMIZED+]" />
 </p>
 
 <p align="center">
