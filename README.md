@@ -3,10 +3,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=z4zenn&theme=tokyonight&hide_border=true" alt="z4zenn streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussain-labs&theme=tokyonight&hide_border=true" alt="hussain-labs streak" />
 </p>
 
