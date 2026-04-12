@@ -10,10 +10,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussain-labs&hide_border=true&theme=onesdark&timezone=Asia/Karachi" alt="hussain-labs streak" />
-</p>
-
 ---
 
 <p align="center">
