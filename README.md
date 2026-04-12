@@ -4,7 +4,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hussain-labs&theme=tokyonight&timezone=Asia/Karachi">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hussain-labs&theme=radical&timezone=Asia/Karachi">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hussain-labs&theme=default&timezone=Asia/Karachi">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussain-labs&theme=tokyonight&timezone=Asia/Karachi" alt="Muzamil's GitHub Streak">
   </picture>
