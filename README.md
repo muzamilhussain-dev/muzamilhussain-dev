@@ -2,11 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=30&pause=1000&color=4AF626&center=true&vCenter=true&width=600&lines=HELLO+VISITOR+%F0%9F%91%8B;I+AM+MUZAMIL+HUSSAIN" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hussain-labs&theme=tokyonight&timezone=Asia/Karachi">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hussain-labs&theme=default&timezone=Asia/Karachi">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussain-labs&theme=tokyonight&timezone=Asia/Karachi" alt="Muzamil's GitHub Streak">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hussain-labs&theme=tokyonight&timezone=Asia/Karachi">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hussain-labs&theme=default&timezone=Asia/Karachi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussain-labs&theme=tokyonight&timezone=Asia/Karachi" alt="Muzamil's GitHub Streak">
+  </picture>
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussain-labs&hide_border=true&theme=onesdark&timezone=Asia/Karachi" alt="hussain-labs streak" />
