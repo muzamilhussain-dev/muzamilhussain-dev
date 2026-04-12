@@ -56,8 +56,8 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hussain-labs&theme=react-dark&bg_color=0d1117&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hussain-labs&theme=github&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hussain-labs&theme=react-dark" width="100%" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hussain-labs&theme=github&bg_color=ffffff&color=333333&line=4AF626&point=4AF626&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hussain-labs&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" />
   </picture>
 </p>
 
