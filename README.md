@@ -1,42 +1,37 @@
-<h1 align="center">Hi 👋, I'm Muzamil Hussain</h1>
-<h3 align="center">MERN Stack Developer | Software Engineer</h3>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=30&pause=1000&color=4AF626&center=true&vCenter=true&width=600&lines=HELLO+VISITOR+%F0%9F%91%8B;I+AM+MUZAMIL+HUSSAIN" />
 </p>
-
----
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hussain-labs&theme=radical&timezone=Asia/Karachi">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hussain-labs&theme=tokyonight&timezone=Asia/Karachi">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hussain-labs&theme=default&timezone=Asia/Karachi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussain-labs&theme=radical&timezone=Asia/Karachi" alt="GitHub Streak">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hussain-labs&show_icons=true&theme=radical">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hussain-labs&show_icons=true&theme=default">
-    <img src="https://github-readme-stats.vercel.app/api?username=hussain-labs&show_icons=true&theme=radical" alt="GitHub Stats">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hussain-labs&layout=compact&theme=radical">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hussain-labs&layout=compact&theme=default">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussain-labs&layout=compact&theme=radical" alt="Top Langs">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussain-labs&theme=tokyonight&timezone=Asia/Karachi" alt="Muzamil's GitHub Streak">
   </picture>
 </p>
 
 ---
 
 <p align="center">
-  <b>ONE COMMIT AT A TIME</b>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hussain-labs/hussain-labs/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hussain-labs/hussain-labs/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hussain-labs/hussain-labs/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  ᴏɴᴇ ᴄᴏᴍᴍɪᴛ ᴀᴛ ᴀ ᴛɪᴍᴇ
 </p>
