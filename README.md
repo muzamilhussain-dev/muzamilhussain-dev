@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussain-labs&theme=tokyonight&hide_border=true" alt="hussain-labs streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussain-labs&hide_border=true&theme=dark&timezone=Asia/Karachi" alt="hussain-labs streak" />
 </p>
 
 ---
