@@ -5,7 +5,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hussain-labs&theme=radical&">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hussain-labs&theme=default&">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hussain-labs&theme=default&timezone=Asia/Karachi">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussain-labs&theme=tokyonight&timezone=Asia/Karachi" alt="GitHub Streak">
   </picture>
 </p>
