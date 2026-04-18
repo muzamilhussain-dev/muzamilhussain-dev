@@ -4,9 +4,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hussain-labs&theme=radical&">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hussain-labs&theme=default&timezone=Asia/Karachi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussain-labs&theme=tokyonight&timezone=Asia/Karachi" alt="GitHub Streak">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=muzamilhussain-dev&theme=radical&">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=muzamilhussain-dev&theme=default&timezone=Asia/Karachi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzamilhussain-dev&theme=tokyonight&timezone=Asia/Karachi" alt="GitHub Streak">
   </picture>
 </p>
 
@@ -34,9 +34,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hussain-labs/hussain-labs/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hussain-labs/hussain-labs/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hussain-labs/hussain-labs/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muzamilhussain-dev/muzamilhussain-dev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muzamilhussain-dev/muzamilhussain-dev/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muzamilhussain-dev/muzamilhussain-dev/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
@@ -55,9 +55,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hussain-labs&theme=react-dark&bg_color=0d1117&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hussain-labs&theme=github&bg_color=ffffff&color=333333&line=4AF626&point=4AF626&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hussain-labs&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=muzamilhussain-dev&theme=react-dark&bg_color=0d1117&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=muzamilhussain-dev&theme=github&bg_color=ffffff&color=333333&line=4AF626&point=4AF626&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=muzamilhussain-dev&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" />
   </picture>
 </p>
 
@@ -65,6 +65,6 @@
 
 <p align="center">
   ᴏɴᴇ ᴄᴏᴍᴍɪᴛ ᴀᴛ ᴀ ᴛɪᴍᴇ
-  <img src="https://komarev.com/ghpvc/?username=hussain-labs&label=PROFILE+VIEWS&color=4AF626&style=flat-square" align="right" />
+  <img src="https://komarev.com/ghpvc/?username=muzamilhussain-dev&label=PROFILE+VIEWS&color=4AF626&style=flat-square" align="right" />
 </p>
 
