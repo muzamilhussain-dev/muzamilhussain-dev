@@ -68,5 +68,4 @@
   <img src="https://komarev.com/ghpvc/?username=hussain-labs&label=PROFILE+VIEWS&color=4AF626&style=flat-square" align="right" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hussain-labs&theme=dark)](https://git.io/streak-stats)
 
