@@ -47,7 +47,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/muzamil-mern-stack-developer/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://muzamilhussain.netlify.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-4AF626?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-<a href="https://wa.me/923265579626" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://wa.me/923030458064" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="mailto:muzamilhusain.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
